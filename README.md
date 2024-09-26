@@ -194,6 +194,7 @@ by GeorgiaTech The Core of Artificial Intelligence](https://www.udacity.com/cour
 
 * [AGI Society](http://www.agi-society.org/resources/)
 * [Linas Vepstas](https://linas.org/agi.html)
+* [Explore AI Resources](https://kandi.openweaver.com/explore/artificial-intelligence) - Explore a curated list of AI popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources on kandi
 
 ## Contribute
 
