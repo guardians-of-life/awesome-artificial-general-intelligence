@@ -85,7 +85,7 @@
 ## Podcasts
 
 * [Concerning AI](https://concerning.ai/)
-* [Lex Fridman](https://lexfridman.com/ai/) - The Artificial Intelligence (AI) podcast hosts accessible, big-picture conversations at MIT and beyond about the nature of intelligence with some of the most interesting people in the world thinking about AI from a variety of perspectives including machine learning, robotics, neuroscience, philosophy, psychology, economics, physics, mathematics, cognitive science, software engineering and more.
+* [Lex Fridman](https://lexfridman.com/ai/) - The Lex Fridman podcast hosts accessible, big-picture conversations at MIT and beyond about the nature of intelligence with some of the most interesting people in the world thinking about AI from a variety of perspectives including machine learning, robotics, neuroscience, philosophy, psychology, economics, physics, mathematics, cognitive science, software engineering and more.
 * [Numenta On Intelligence](https://numenta.com/resources/numenta-on-intelligence-podcast/)
 
 ## Courses
